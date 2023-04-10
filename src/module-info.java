@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ncgn
+ *
+ */
+module test {
+}
